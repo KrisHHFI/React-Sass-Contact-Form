@@ -14,6 +14,7 @@ export default function ContactForm(props) {
     const addFeedback = (event) => {
         let feedbackString = JSON.stringify(feedback);
         alert(feedbackString);
+        window.location.reload();
     }
 
     // Page output
