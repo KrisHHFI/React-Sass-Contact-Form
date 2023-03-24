@@ -2,6 +2,8 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/4ccf98b3-b255-416f-81d8-16ce66c1ebfa/Screenshot+2023-03-24+175855.png"/>
 
+Check out the [demo video](https://www.youtube.com/watch?v=sGl7kIblg18&ab_channel=KrisKPhotos).
+
 ### Launch the App
 
 1) Download the project and extract the folder.
